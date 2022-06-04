@@ -8,7 +8,7 @@ Repo Riko versiyadır
 
 ✅ Əsas Bot: [𝗗𝗲𝗺𝗼𝗻 𝗠𝘂𝘀𝗶𝗰](https:t.me/KarabakhSongBot)
 
-✅ Rəsmi Telegram Kanal: [Botsinator](https:t.me/RiyaddBlog)
+✅ Rəsmi Telegram Kanal: [RiyaddMusic](https:t.me/RiyaddBlog)
 
 # Lazım Olanlar
 
