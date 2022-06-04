@@ -1,6 +1,6 @@
 #Buralara əl dəymə...
 #Deploy butonuna bas deploy elə.
-#Rəsmi Kanal t.me/Botsinator 
+#Rəsmi Kanal t.me/RiyaddBlog
 
 import os, youtube_dl, requests, time
 from config import Config
