@@ -4,11 +4,11 @@
 
 Azərbaycan dilində Song Bot 🎵
 
-Repo demo versiyadır
+Repo Riko versiyadır
 
-✅ Əsas Bot: [𝗗𝗲𝗺𝗼𝗻 𝗠𝘂𝘀𝗶𝗰](https:t.me/DemonMusicBot)
+✅ Əsas Bot: [𝗗𝗲𝗺𝗼𝗻 𝗠𝘂𝘀𝗶𝗰](https:t.me/KarabakhSongBot)
 
-✅ Rəsmi Telegram Kanal: [Botsinator](https:t.me/Botsinator)
+✅ Rəsmi Telegram Kanal: [Botsinator](https:t.me/RiyaddBlog)
 
 # Lazım Olanlar
 
